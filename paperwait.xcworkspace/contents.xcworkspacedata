@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:Shared"
+      name = "Shared">
+      <FileRef
+         location = "group:ConnectionManager.h">
+      </FileRef>
+      <FileRef
+         location = "group:ConnectionManager.m">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:Sender/Sender.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Receiver/Receiver.xcodeproj">
+   </FileRef>
+</Workspace>
